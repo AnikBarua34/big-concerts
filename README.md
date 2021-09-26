@@ -1,6 +1,6 @@
-# Wellcome To a Big-Concert Programme
+# Welcome To a Big-Concert Programme
 
-This project was bootstrapped with [Create React App](facebook.com).
+This project was bootstrapped with [Facebook](facebook.com).
 
 ## Available Scripts
 
