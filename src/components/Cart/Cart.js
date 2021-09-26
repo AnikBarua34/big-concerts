@@ -25,7 +25,7 @@ const Cart = (props) => {
             <div className='singer-information'>
                 <h5>Total Singer : {cart.length} </h5>
                 <h4>Total Cost : ${totalCost}</h4>
-                <h6>Member Added {element} :</h6>
+                <h6>Singer Added {element} :</h6>
             </div>
             <span className='singer-names'><Card.Body>{singerName}</Card.Body></span>
         </div>

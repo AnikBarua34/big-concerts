@@ -23,8 +23,9 @@ const Container = () => {
         <div className='main-container'>
 
             <div className="singers-conatiner">
+                {/* key declare and using map */}
                 {
-                    singers.map(singer => <Singer singer={singer}
+                    singers.map(singer => <Singer key={singer.Name} singer={singer}
                         handleAddToCart={handleAddToCart}
                     ></Singer>)
                 }
