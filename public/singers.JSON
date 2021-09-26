@@ -1,0 +1,85 @@
+[
+    {
+        "Name": "Arjit Sing",
+        "age": 32,
+        "country": "India",
+        "img": "https://www.agefotostock.com/age/en/details-photo/bangladeshi-singers-singing-baishakhi-song-to-celebrate-pohela-baishakh-the-first-day-of-the-bengali-new-year-1414-at-ramna-botomul-in-dhaka-dhaka/PBG-PB100526/1",
+        "singerFee": 20000
+    },
+    {
+        "Name": "Atif Aslam",
+        "age": 30,
+        "country": "India",
+        "img": "https://www.agefotostock.com/age/en/details-photo/bangladeshi-singers-singing-baishakhi-song-to-celebrate-pohela-baishakh-the-first-day-of-the-bengali-new-year-1414-at-ramna-botomul-in-dhaka-dhaka/PBG-PB100526/1",
+        "singerFee": 25000
+    },
+    {
+        "Name": "Tahsan Khan",
+        "age": 35,
+        "country": "Bangladesh",
+        "img": "https://www.agefotostock.com/age/en/details-photo/bangladeshi-singers-singing-baishakhi-song-to-celebrate-pohela-baishakh-the-first-day-of-the-bengali-new-year-1414-at-ramna-botomul-in-dhaka-dhaka/PBG-PB100526/1",
+        "singerFee": 5000
+    },
+    {
+        "Name": "Kona",
+        "age": 29,
+        "country": "Bangladesh",
+        "img": "https://www.agefotostock.com/age/en/details-photo/bangladeshi-singers-singing-baishakhi-song-to-celebrate-pohela-baishakh-the-first-day-of-the-bengali-new-year-1414-at-ramna-botomul-in-dhaka-dhaka/PBG-PB100526/1",
+        "singerFee": 4000
+    },
+    {
+        "Name": "Nancy",
+        "age": 30,
+        "country": "Bangladesh",
+        "img": "https://www.agefotostock.com/age/en/details-photo/bangladeshi-singers-singing-baishakhi-song-to-celebrate-pohela-baishakh-the-first-day-of-the-bengali-new-year-1414-at-ramna-botomul-in-dhaka-dhaka/PBG-PB100526/1",
+        "singerFee": 9000
+    },
+    {
+        "Name": "Habib",
+        "age": 35,
+        "country": "Bangladesh",
+        "img": "https://www.agefotostock.com/age/en/details-photo/bangladeshi-singers-singing-baishakhi-song-to-celebrate-pohela-baishakh-the-first-day-of-the-bengali-new-year-1414-at-ramna-botomul-in-dhaka-dhaka/PBG-PB100526/1",
+        "singerFee": 12000
+    },
+    {
+        "Name": "Jeet Ganguly",
+        "age": 40,
+        "country": "India",
+        "img": "https://www.agefotostock.com/age/en/details-photo/bangladeshi-singers-singing-baishakhi-song-to-celebrate-pohela-baishakh-the-first-day-of-the-bengali-new-year-1414-at-ramna-botomul-in-dhaka-dhaka/PBG-PB100526/1",
+        "singerFee": 10000
+    },
+    {
+        "Name": "Novel",
+        "age": 30,
+        "country": "Bangladesh",
+        "img": "https://www.agefotostock.com/age/en/details-photo/bangladeshi-singers-singing-baishakhi-song-to-celebrate-pohela-baishakh-the-first-day-of-the-bengali-new-year-1414-at-ramna-botomul-in-dhaka-dhaka/PBG-PB100526/1",
+        "singerFee": 30000
+    },
+    {
+        "Name": "Obonti",
+        "age": 30,
+        "country": "Bangladesh",
+        "img": "https://www.agefotostock.com/age/en/details-photo/bangladeshi-singers-singing-baishakhi-song-to-celebrate-pohela-baishakh-the-first-day-of-the-bengali-new-year-1414-at-ramna-botomul-in-dhaka-dhaka/PBG-PB100526/1",
+        "singerFee": 5000
+    },
+    {
+        "Name": "Hero Alam",
+        "age": 30,
+        "country": "Chaina",
+        "singerFee": 100
+    },
+    {
+        "Name": "Dr. Mahfuz Rahman",
+        "age": 30,
+        "country": "Korea",
+        "img": "https://www.agefotostock.com/age/en/details-photo/bangladeshi-singers-singing-baishakhi-song-to-celebrate-pohela-baishakh-the-first-day-of-the-bengali-new-year-1414-at-ramna-botomul-in-dhaka-dhaka/PBG-PB100526/1",
+        "singerFee": 150
+    },
+    {
+        "Name": "Bappi Laheri",
+        "age": 50,
+        "country": "India",
+        "img": "https://www.agefotostock.com/age/en/details-photo/bangladeshi-singers-singing-baishakhi-song-to-celebrate-pohela-baishakh-the-first-day-of-the-bengali-new-year-1414-at-ramna-botomul-in-dhaka-dhaka/PBG-PB100526/1",
+        "singerFee": 20000
+    }
+]

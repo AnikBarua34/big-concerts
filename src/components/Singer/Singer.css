@@ -1,0 +1,22 @@
+.card-body{
+    padding: 5px;
+    margin: 15px;
+    margin-top: 15px;
+    background-color: lightblue;
+    transition: all 2s;
+
+}
+.card-body:hover{
+    
+    transform: scale(1.1);
+}
+.addToCartBtn{
+    background-color: rgba(0, 0, 0, 0.911);
+    color: white;
+    border-radius: 10px;
+    width: 150px;
+}
+.fee{
+    color: tomato;
+    font-weight: 800;
+}
