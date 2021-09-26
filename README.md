@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Wellcome To a Big-Concert Programme
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](facebook.com).
 
 ## Available Scripts
 
